@@ -7,3 +7,9 @@
 <img src="https://github.com/vishvpatel-97/car-price-prediction/blob/master/images/carmodel.gif" width=500, height=700>
 
 [Web App Link](https://carpricepredictionmodel.herokuapp.com/)
+
+## Dataset
+
+<img src="https://github.com/vishvpatel-97/car-price-prediction/blob/master/images/dataset.jpg" width=500, height=400>
+
+
