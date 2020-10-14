@@ -15,4 +15,6 @@
 ## Project Brief:
 
 - Data was taken from Kaggle.
-- **EDA 
+- First I have done **EDA & Data cleaning** process.
+- **Feature engineering & feature selection** techniques has been applied to the model.
+- **Used Randomforest regressor** algorithm for the flask framework to build web app.
