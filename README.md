@@ -10,6 +10,6 @@
 
 ## Dataset
 
-<img src="https://github.com/vishvpatel-97/car-price-prediction/blob/master/images/dataset.jpg" width=500, height=400>
+<img src="https://github.com/vishvpatel-97/car-price-prediction/blob/master/images/dataset.jpg" width=800, height=200>
 
 
